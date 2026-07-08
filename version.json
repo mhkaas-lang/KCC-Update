@@ -1,8 +1,8 @@
 {
-  "versionCode": 999,
-  "versionName": "99.9",
+  "versionCode": 2,
+  "versionName": "1.1",
   "apk": "https://github.com/mhkaas-lang/KCC-Update/raw/main/latest.apk",
   "changes": [
-    "Test update"
+    "Auto update test"
   ]
 }
